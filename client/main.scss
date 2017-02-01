@@ -1,0 +1,14 @@
+/* CSS declarations go here */
+@import "{}/node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.wrap {
+  // max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
