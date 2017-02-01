@@ -13,6 +13,3 @@ This project will be a web pages vehicle manager application. The app will allow
 #### 'Nice to haves'
 + Utilize API to create functionality on other platforms (Car dashboard, Mobile Devices, etc.)
 + Import vehicle data using VIN search
-
-
-Test
