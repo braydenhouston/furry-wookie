@@ -1,0 +1,1 @@
+meteor npm start
