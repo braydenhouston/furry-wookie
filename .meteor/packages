@@ -25,4 +25,7 @@ iron:router
 momentjs:moment
 fortawesome:fontawesome
 fourseven:scss
-session
+session@1.1.7
+accounts-password
+accounts-ui
+useraccounts:bootstrap
